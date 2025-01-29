@@ -2,7 +2,7 @@
 //Just more comments
 char* RLE(char* input) {
     char* output = malloc(2 * strlen(input) + 1);
-    int k = 0;
+    int k = 0; //intialising index
     int out_put_index = 0;
     while (input[k] != '\0')
     {
