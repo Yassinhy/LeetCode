@@ -1,3 +1,4 @@
+//Adding some comments
 char* RLE(char* input) {
     char* output = malloc(2 * strlen(input) + 1);
     int k = 0;
