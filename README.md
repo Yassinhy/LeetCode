@@ -50,7 +50,7 @@ Please follow these steps:
 
 ## About Me
 
-I'm [Yassin Hisham], a student passionate about problem-solving and coding. You can connect with me on:
+I'm Yassin Hisham, a student passionate about problem-solving and coding. You can connect with me on:
 - [GitHub](https://github.com/Yassinhy)
 - [LeetCode](https://leetcode.com/YassinHHyehia/)
 
